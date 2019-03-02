@@ -1,0 +1,18 @@
+body, html {
+  margin: 0;
+  padding: 0;
+}
+
+#fs {
+  width: 100%;
+}
+
+#title {
+  text-align: center;
+  font: 3.2em "Lato", sans-serif;
+}
+
+#subtitle {
+  text-align: center;
+  font: 1.5em "Lato", sans-serif;
+}
